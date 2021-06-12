@@ -1,0 +1,5 @@
+.ideagit
+*.class
+git.iml
+hello.txt
+out/
